@@ -25,5 +25,5 @@ This source is licensed under the terms of the Attribution License.  Copyright &
     [gradient release];
 
 <center>
-<img src="https://github.com/wmalloc/CKGradient/raw/master/CKGradient.png" />
+<img src="https://github.com/wmalloc/CRIGradient/raw/master/CKGradient.png" />
 </center>
